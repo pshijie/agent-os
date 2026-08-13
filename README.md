@@ -70,8 +70,8 @@ Agent OS
 **本地运行**：
 
 ```bash
-git clone https://github.com/<你的用户名>/agent-os-docs.git
-cd agent-os-docs/docs
+git clone https://github.com/pshijie/agent-os.git
+cd agent-os/docs
 npm install
 npm start
 # 打开 http://localhost:3000

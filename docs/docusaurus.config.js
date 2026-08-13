@@ -62,7 +62,7 @@ const config = {
             label: '文档',
           },
           {
-            href: 'https://github.com/your-username/agent-os-docs',
+            href: 'https://github.com/pshijie/agent-os',
             label: 'GitHub',
             position: 'right',
           },
