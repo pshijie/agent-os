@@ -6,7 +6,7 @@ const config = {
   title: 'Agent OS 知识库',
   tagline: '原理 × AWS × IoT — Agent OS 系统工程笔记',
   favicon: 'img/favicon.ico',
-  url: 'https://agent-os-docs.vercel.app',
+  url: 'https://agent-os-gilt.vercel.app',
   baseUrl: '/',
   organizationName: 'agent-os-docs',
   projectName: 'agent-os-docs',

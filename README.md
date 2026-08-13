@@ -4,13 +4,13 @@
 
 **把 Agent 原理学透，再映射到 AWS AgentCore 落地 —— 一个 Java 工程师的 AI 系统工程笔记**
 
-[![Deploy Status](https://img.shields.io/badge/deploy-vercel-black?logo=vercel)](https://agent-os-docs.vercel.app)
+[![Deploy Status](https://img.shields.io/badge/deploy-vercel-black?logo=vercel)](https://agent-os-gilt.vercel.app)
 [![Docusaurus](https://img.shields.io/badge/built%20with-Docusaurus%203-3ECC5F?logo=docusaurus)](https://docusaurus.io)
 [![License: MIT](https://img.shields.io/badge/license-MIT-blue.svg)](LICENSE)
 [![Theory: CoALA](https://img.shields.io/badge/theory-CoALA%202023-orange)](https://arxiv.org/abs/2309.02427)
 [![Theory: AIOS](https://img.shields.io/badge/theory-AIOS%202024-purple)](https://arxiv.org/abs/2403.16971)
 
-[**在线阅读 →**](https://agent-os-docs.vercel.app) · [记忆系统](https://agent-os-docs.vercel.app/docs/memory/index) · [RAG](https://agent-os-docs.vercel.app/docs/rag/index) · [规划推理](https://agent-os-docs.vercel.app/docs/planning/index) · [多 Agent 协作](https://agent-os-docs.vercel.app/docs/multi-agent/index)
+[**在线阅读 →**](https://agent-os-gilt.vercel.app) · [记忆系统](https://agent-os-gilt.vercel.app/docs/memory/index) · [RAG](https://agent-os-gilt.vercel.app/docs/rag/index) · [规划推理](https://agent-os-gilt.vercel.app/docs/planning/index) · [多 Agent 协作](https://agent-os-gilt.vercel.app/docs/multi-agent/index)
 
 </div>
 
@@ -65,7 +65,7 @@ Agent OS
 
 ## 快速开始
 
-**在线阅读**（推荐）：直接访问 [agent-os-docs.vercel.app](https://agent-os-docs.vercel.app)
+**在线阅读**（推荐）：直接访问 [agent-os-gilt.vercel.app](https://agent-os-gilt.vercel.app)
 
 **本地运行**：
 
