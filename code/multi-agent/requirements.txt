@@ -1,0 +1,3 @@
+# 10-multi-agent 配套代码依赖
+# MOCK_MODE=true 时无需安装任何外部依赖（仅标准库）
+boto3>=1.34.0

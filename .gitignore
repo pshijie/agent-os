@@ -1,0 +1,44 @@
+# ── Docusaurus ──────────────────────────────────────────────────────
+docs/node_modules/
+docs/.docusaurus/
+docs/build/
+docs/package-lock.json
+
+# ── Kiro IDE ────────────────────────────────────────────────────────
+.kiro/
+
+# ── Archive / 草稿文件 ──────────────────────────────────────────────
+_archive/
+scripts/
+
+# Python ──────────────────────────────────────────────────────────────
+__pycache__/
+*.py[cod]
+*.pyo
+*.pyd
+.env
+*.egg-info/
+.venv/
+venv/
+env/
+dist/
+*.egg
+
+# Node ────────────────────────────────────────────────────────────────
+node_modules/
+npm-debug.log*
+yarn-debug.log*
+yarn-error.log*
+
+# IDE & 编辑器 ────────────────────────────────────────────────────────
+.idea/
+.vscode/
+*.swp
+*.swo
+*.DS_Store
+Thumbs.db
+
+# 临时文件 ────────────────────────────────────────────────────────────
+*.log
+*.tmp
+*.bak

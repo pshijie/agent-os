@@ -1,0 +1,4 @@
+# 07-cost-governance 配套代码依赖
+# MOCK_MODE=true 时无需安装任何外部依赖（标准库粗估 Token）
+# tiktoken 提供精确 Token 计数，推荐安装
+tiktoken>=0.5.0

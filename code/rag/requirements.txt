@@ -1,0 +1,4 @@
+# 05-rag 配套代码依赖
+# MOCK_MODE=true 时无需安装任何外部依赖（仅标准库）
+# boto3 仅在 MOCK_MODE=false 且配置了 KNOWLEDGE_BASE_ID 时需要
+boto3>=1.34.0

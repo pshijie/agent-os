@@ -1,0 +1,52 @@
+/**
+ * Agent OS 知识库 - 自定义样式
+ * 对标 AWS 官方文档和 Stripe Docs 的专业风格
+ */
+
+/* 主色调：AWS 橙色 + 深色专业配色 */
+:root {
+  --ifm-color-primary: #FF9900;
+  --ifm-color-primary-dark: #E68A00;
+  --ifm-color-primary-darker: #D98200;
+  --ifm-color-primary-darkest: #B36B00;
+  --ifm-color-primary-light: #FFB84D;
+  --ifm-color-primary-lighter: #FFC266;
+  --ifm-color-primary-lightest: #FFCC80;
+  --ifm-code-font-size: 90%;
+  --docusaurus-highlighted-code-line-bg: rgba(255, 153, 0, 0.1);
+}
+
+[data-theme='dark'] {
+  --ifm-color-primary: #FFB84D;
+  --ifm-color-primary-dark: #FF9900;
+  --ifm-color-primary-darker: #E68A00;
+  --ifm-color-primary-darkest: #B36B00;
+  --ifm-color-primary-light: #FFC266;
+  --ifm-color-primary-lighter: #FFCC80;
+  --ifm-color-primary-lightest: #FFD699;
+  --docusaurus-highlighted-code-line-bg: rgba(255, 184, 77, 0.1);
+}
+
+/* 文档正文字体和行高 */
+.markdown {
+  font-size: 15px;
+  line-height: 1.7;
+}
+
+/* 状态徽章：用于 frontmatter status 展示 */
+.status-badge {
+  display: inline-block;
+  padding: 2px 8px;
+  border-radius: 4px;
+  font-size: 12px;
+  font-weight: 600;
+  text-transform: uppercase;
+}
+.status-badge--completed { background: #d4edda; color: #155724; }
+.status-badge--in-progress { background: #cce5ff; color: #004085; }
+.status-badge--draft { background: #e2e3e5; color: #383d41; }
+
+/* 代码块标题样式增强 */
+.code-block-title {
+  font-family: var(--ifm-font-family-monospace);
+}
